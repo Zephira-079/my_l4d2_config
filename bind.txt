@@ -1,0 +1,20 @@
+bind f "impulse 100";
+bind z "+mouse_menu Orders";
+bind x "+mouse_menu QA";
+bind c "+voicerecord";
+bind r "+reload";
+bind q "lastinv";
+bind h "motd";
+bind "Shift" "+speed";
+
+bind v "go_away_from_keyboard";
+bind t "say_team Tank! Tank! Tank!";
+bind g "say_team Go! Go! Go!";
+bind b "say_team Back! Back! Back!";
+bind h "say_team Help! Help! Help!";
+bind n "say_team Im Out of Ammo!";
+
+bind "Shift" "+zoom";
+bind f10 "disconnect";
+bind f3 "jointeam 1";
+bind f4 "jointeam 2";
