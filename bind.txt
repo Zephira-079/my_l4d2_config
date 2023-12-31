@@ -23,10 +23,6 @@ bind TAB "+scoregraph";
 alias +scoregraph "+showscores; net_graph 4";
 alias -scoregraph "-showscores; net_graph 0";
 
-bind TAB "+scoregraph";
-alias +scoregraph "+showscores;
-alias -scoregraph "-showscores;
-
 
 bind f "say_team !f ";
 bind z "say_team !f spitter";
@@ -42,6 +38,7 @@ bind c "say_team !f molly";
 bind h "say_team !f heal";
 bind g "say_team !f gas";
 bind v "say_team !f defib";
+bind n "say_team !f bile";
 bind b "say_team !bot";
 
 bind z "say_team !buy adren";
@@ -50,8 +47,10 @@ bind c "say_team !buy molly";
 bind h "say_team !buy heal";
 bind g "say_team !buy gas";
 bind v "say_team !buy defib";
+bind n "say_team !buy bile";
 
 bind p "setinfo name No_one";
+bind p "setinfo name Rochelle_";
 
 bind z "say_team !buy a";
 bind x "say_team !buy kit";
