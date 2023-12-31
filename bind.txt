@@ -18,3 +18,41 @@ bind "Shift" "+zoom";
 bind f10 "disconnect";
 bind f3 "jointeam 1";
 bind f4 "jointeam 2";
+
+bind TAB "+scoregraph";
+alias +scoregraph "+showscores; net_graph 4";
+alias -scoregraph "-showscores; net_graph 0";
+
+bind TAB "+scoregraph";
+alias +scoregraph "+showscores;
+alias -scoregraph "-showscores;
+
+
+bind f "say_team !f ";
+bind z "say_team !f spitter";
+bind x "say_team !f boomer";
+bind c "say_team !f charger";
+bind t "say_team !f tank";
+bind r "say_team !f witch";
+bind q "say_team !f hunter";
+
+bind z "say_team !f adren";
+bind x "say_team !f kit";
+bind c "say_team !f molly";
+bind h "say_team !f heal";
+bind g "say_team !f gas";
+bind v "say_team !f defib";
+bind b "say_team !bot";
+
+bind z "say_team !buy adren";
+bind x "say_team !buy kit";
+bind c "say_team !buy molly";
+bind h "say_team !buy heal";
+bind g "say_team !buy gas";
+bind v "say_team !buy defib";
+
+bind p "setinfo name No_one";
+
+bind z "say_team !buy a";
+bind x "say_team !buy kit";
+bind c "say_team !buy defib";
