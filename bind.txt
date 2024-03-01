@@ -19,11 +19,6 @@ bind f10 "disconnect";
 bind f3 "jointeam 1";
 bind f4 "jointeam 2";
 
-bind TAB "+scoregraph";
-alias +scoregraph "+showscores; net_graph 4";
-alias -scoregraph "-showscores; net_graph 0";
-
-
 bind f "say_team !f ";
 bind z "say_team !f spitter";
 bind x "say_team !f boomer";
@@ -49,8 +44,11 @@ bind g "say_team !buy gas";
 bind v "say_team !buy defib";
 bind n "say_team !buy bile";
 
+bind l "say_team !buy m60; say_team !buy laser";
+
 bind p "setinfo name No_one";
 bind p "setinfo name Rochelle_";
+bind p "setinfo name IluvMed";
 
 bind z "say_team !buy a";
 bind x "say_team !buy kit";
