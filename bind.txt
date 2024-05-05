@@ -26,6 +26,8 @@ bind c "say_team !f charger";
 bind t "say_team !f tank";
 bind r "say_team !f witch";
 bind q "say_team !f hunter";
+bind g "say_team !f jockey";
+bind v "say_team !f smoker";
 
 bind z "say_team !f adren";
 bind x "say_team !f kit";
