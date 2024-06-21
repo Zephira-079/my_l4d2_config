@@ -46,7 +46,7 @@ bind g "say_team !buy gas";
 bind v "say_team !buy defib";
 bind n "say_team !buy bile";
 
-bind z "z_spawn ";
+bind f "z_spawn ";
 bind z "z_spawn spitter";
 bind x "z_spawn boomer";
 bind c "z_spawn charger";
