@@ -46,6 +46,16 @@ bind g "say_team !buy gas";
 bind v "say_team !buy defib";
 bind n "say_team !buy bile";
 
+bind z "z_spawn ";
+bind z "z_spawn spitter";
+bind x "z_spawn boomer";
+bind c "z_spawn charger";
+bind t "z_spawn tank";
+bind r "z_spawn witch";
+bind q "z_spawn hunter";
+bind g "z_spawn jockey";
+bind v "z_spawn smoker";
+
 bind l "say_team !buy m60; say_team !buy laser";
 
 bind p "setinfo name No_one";
