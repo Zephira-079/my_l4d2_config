@@ -60,6 +60,8 @@ bind q "z_spawn hunter";
 bind g "z_spawn jockey";
 bind v "z_spawn smoker";
 
+bind b "warp_all_survivors_here";
+
 ------------------------------------------------------------
 
 jimmy gibs 
