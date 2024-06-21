@@ -19,6 +19,8 @@ bind f10 "disconnect";
 bind f3 "jointeam 1";
 bind f4 "jointeam 2";
 
+------------------------------------------------------------
+
 bind f "say_team !f ";
 bind z "say_team !f spitter";
 bind x "say_team !f boomer";
@@ -46,6 +48,8 @@ bind g "say_team !buy gas";
 bind v "say_team !buy defib";
 bind n "say_team !buy bile";
 
+------------------------------------------------------------
+
 bind f "z_spawn ";
 bind z "z_spawn spitter";
 bind x "z_spawn boomer";
@@ -55,6 +59,16 @@ bind r "z_spawn witch";
 bind q "z_spawn hunter";
 bind g "z_spawn jockey";
 bind v "z_spawn smoker";
+
+------------------------------------------------------------
+
+jimmy gibs 
+
+z_forcezombiemodelname common_male_jimmy;
+z_forcezombiemodel 1;
+// z_spawn
+
+------------------------------------------------------------
 
 bind l "say_team !buy m60; say_team !buy laser";
 
