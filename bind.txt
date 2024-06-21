@@ -30,6 +30,7 @@ bind r "say_team !f witch";
 bind q "say_team !f hunter";
 bind g "say_team !f jockey";
 bind v "say_team !f smoker";
+bind h "say_team !f horde";
 
 bind z "say_team !f adren";
 bind x "say_team !f kit";
