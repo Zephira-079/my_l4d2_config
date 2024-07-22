@@ -77,9 +77,11 @@ z_forcezombiemodel 1;
 
 bind l "say_team !buy m60; say_team !buy laser";
 
-bind p "setinfo name No_one";
-bind p "setinfo name Rochelle_";
+bind i "setinfo name No_one";
+bind o "setinfo name Rochelle_";
 bind p "setinfo name IluvMed";
+bind k "setinfo name spider_man";
+bind l "setinfo name Im_Batman";
 
 bind z "say_team !buy a";
 bind x "say_team !buy kit";
