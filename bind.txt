@@ -17,6 +17,7 @@ bind f3 "jointeam 1";
 bind f4 "jointeam 2";
 
 bind alt "go_away_from_keyboard; wait 20; say_team !afk";
+bind h "say_team AYUDA! AYUDA! AYUDA!";
 bind k "impulse 201";
 bind l "clear; wait 20; status"; 
 bind j "say_team !join";
