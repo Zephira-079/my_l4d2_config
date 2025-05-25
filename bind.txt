@@ -22,7 +22,7 @@ bind b "say_team BACK! ATRÁS! 回去!";
 bind g "say_team GO! VAMOS! 去!";
 
 bind alt "go_away_from_keyboard; wait 20; say_team !afk";
-bind k "callvote sv_alltalk";
+bind k "callvote changealltalk";
 bind l "clear; wait 20; status"; 
 bind j "say_team !join";
 bind i "say_team !infected";
